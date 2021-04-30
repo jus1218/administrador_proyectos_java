@@ -36,7 +36,6 @@ public class Main {
             opcUser = View.menu("Bienvenido al menu Principal", menuOptions);
             switch (opcUser) {
                 case 0:// Agregar
-
                     /* protected String id;
                        protected String nombre;
                        protected String apellidos;
